@@ -1,138 +1,74 @@
-# Data Analysis Bootcamp Projects
+# Data Analytics Projects
 
-A collection of Python-based mini and major projects built during my Data Analysis Bootcamp journey.  
-These projects focus on strengthening core programming concepts, problem-solving, database handling, and building real-world applications using Python, SQL, and Power BI.
+A curated collection of mini and major projects completed during my Data Analytics learning journey.  
+This repository highlights practical applications of **Python, SQL, SQLite, and Power BI** through real-world problem-solving, dashboard development, and backend-focused projects.
 
 ---
 
-# Projects Included
+## 🚀 Projects Included
 
-## Password Checker / Login System
+### 1. 🔐 Password Checker / Login System
+A beginner-friendly authentication system built using core Python concepts.
 
-A beginner-friendly authentication system developed using core Python concepts.
+**Key Features:**
+- Password creation and validation
+- 3-attempt login restriction
+- Forgot password functionality
+- Basic authentication flow
 
-### Overview
-This project simulates a basic login system where users can:
-- Set a password
-- Attempt login with limited tries
-- Recover forgotten passwords
-- Experience simple authentication flow logic
-
-### Skills Demonstrated
-- Python Fundamentals
-- Conditional Statements (`if`, `elif`, `else`)
-- Loops (`while`)
-- User Input Handling
-- String Operations
-- Basic Authentication Logic
-
-### Features
-- Password creation system  
-- 3-attempt login restriction  
-- Incorrect password handling  
-- Forgot password functionality  
-
-### Tech Stack
-- Python
-- Command Line Interface (CLI)
-
-### Future Enhancements
-- Secure hidden password input using `getpass`
-- Password strength validation
-- File/Database-based credential storage
-- User account management
-
+**Tech Stack:** Python, CLI  
 **Project File:** `minor-projects/Password_Checker.ipynb`
 
 ---
 
-# Electric Vehicle Sales Analysis – India
+### 2. ⚡ Electric Vehicle Sales Analysis – India
+An interactive **Power BI dashboard** analyzing EV sales trends across India.
 
-A Power BI dashboard project focused on analyzing Electric Vehicle sales trends across India.
+**Key Features:**
+- State-wise sales analysis
+- Category-wise vehicle comparison
+- KPI dashboards & charts
+- Data cleaning and transformation
 
-### Overview
-This project provides insights into EV adoption trends, sales performance, and category-wise analysis using interactive Power BI visualizations.
-
-### Features
-- Interactive Dashboard
-- State-wise EV Sales Analysis
-- Category-wise Vehicle Comparison
-- Sales Trend Visualization
-- KPI Cards & Charts
-- Data Cleaning and Transformation
-
-### Skills Demonstrated
-- Data Visualization
-- Dashboard Design
-- Data Cleaning
-- Business Insights Generation
-- Power BI Reporting
-- KPI Analysis
-
-### Tech Stack
-- Power BI
-- Excel/CSV Dataset
-
+**Tech Stack:** Power BI, Excel/CSV  
 **Project File:** `minor-projects/Electric Vehicle Sales-India.pbix`
 
 ---
 
-# Library Management System
+### 3. 📚 Library Management System
+A console-based backend application for managing core library operations.
 
-A console-based backend Library Management System developed using Python and SQLite.
-
-### Overview
-This project manages core library operations including:
-- User registration & login
+**Key Features:**
+- User registration & authentication
 - Book inventory management
-- Searching books
-- Issuing books with stock validation
-- Database storage using SQLite
+- Book search and issue system
+- SQLite database integration
 
-### Features
-- User Registration & Authentication  
-- View Available Books  
-- Search Books by Title  
-- Issue Books with Availability Check  
-- Persistent SQLite Database Storage  
-- Error Handling using `try-except`
-
-### Skills Demonstrated
-- Python Programming
-- SQLite Database Integration
-- Functions & Modular Programming
-- CRUD Operations
-- Exception Handling
-- Backend Logic Building
-
-### Tech Stack
-- Python
-- SQLite
-- Jupyter Notebook
-
+**Tech Stack:** Python, SQLite, Jupyter Notebook  
 **Project File:** `major-projects/Library_Management.ipynb`
 
 ---
 
-# Repository Structure
+## 🛠️ Skills Demonstrated
+- Python Programming
+- Data Analysis & Visualization
+- Power BI Dashboard Development
+- SQL & SQLite Database Handling
+- Problem Solving & Logic Building
+- Backend Development Fundamentals
+
+---
+
+## 📂 Repository Structure
 
 ```bash
-Data-Analysis-Bootcamp/
+Data-Analytics-Projects/
 │
-├── major-projects/
+├── Major_Projects/
 │   └── Library_Management.ipynb
 │
-├── minor-projects/
+├── Mini_Projects/
 │   ├── Password_Checker.ipynb
 │   └── Electric Vehicle Sales-India.pbix
 │
 └── README.md
-```
-
----
-
-# Let's Connect
-
-Email: [tanveer.gulati2006@gmail.com](mailto:tanveer.gulati2006@gmail.com)
-
-LinkedIn:  [Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/)
