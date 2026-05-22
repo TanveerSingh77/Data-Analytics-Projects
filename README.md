@@ -5,9 +5,9 @@ This repository highlights practical applications of **Python, SQL, SQLite, and 
 
 ---
 
-## 🚀 Projects Included
+## Projects Included
 
-### 1. 🔐 Password Checker / Login System
+### 1. Password Checker / Login System
 A beginner-friendly authentication system built using core Python concepts.
 
 **Key Features:**
@@ -21,7 +21,7 @@ A beginner-friendly authentication system built using core Python concepts.
 
 ---
 
-### 2. ⚡ Electric Vehicle Sales Analysis – India
+### 2. Electric Vehicle Sales Analysis – India
 An interactive **Power BI dashboard** analyzing EV sales trends across India.
 
 **Key Features:**
@@ -35,7 +35,7 @@ An interactive **Power BI dashboard** analyzing EV sales trends across India.
 
 ---
 
-### 3. 📚 Library Management System
+### 3. Library Management System
 A console-based backend application for managing core library operations.
 
 **Key Features:**
@@ -49,7 +49,7 @@ A console-based backend application for managing core library operations.
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 - Python Programming
 - Data Analysis & Visualization
 - Power BI Dashboard Development
@@ -59,15 +59,15 @@ A console-based backend application for managing core library operations.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 Data-Analytics-Projects/
 │
-├── Major_Projects/
+├── major_projects/
 │   └── Library_Management.ipynb
 │
-├── Mini_Projects/
+├── mini_projects/
 │   ├── Password_Checker.ipynb
 │   └── Electric Vehicle Sales-India.pbix
 │
